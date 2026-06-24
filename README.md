@@ -1,4 +1,4 @@
-# Hi 👋, I'm Michael Chukwuemeka Micah
+# Hi 👋, I'm Michael Chukwuemeka Micah 
 
 ### 🚀 AI Engineer | Data Engineer | Full-Stack Developer
 **Building intelligent systems, data pipelines, and scalable applications**
