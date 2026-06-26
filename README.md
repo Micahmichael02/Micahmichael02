@@ -127,8 +127,8 @@
 <br />
 
 <div align="center">
-  <img width="49%" alt="Active 24/7" src="[YOUR_FIRST_IMAGE_URL_HERE]    (https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/1.gif)" />
-  <img width="49%" alt="AI User 😎" src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/2.gif" />
+  <img width="20%" alt="Active 24/7" src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/1.gif" />
+  <img width="20%" alt="AI User 😎" src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/2.gif" />
 </div>
 
 <br />
