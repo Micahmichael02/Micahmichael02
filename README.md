@@ -143,10 +143,10 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
     </td>
     <td width="5%" align="center">
       <h3>⚽ Football-Analytics</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/Football-Analytics/main/assets/demo.gif" width="100%" alt="Football-Analytics" />
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Football-Analytics/main/assets/demo.gif" width="5%" alt="Football-Analytics" />
       <p><a href="https://github.com/Micahmichael02/Football-Analytics"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> LangChain, LangGraph, Pinecone, FastAPI</p>
-      <p>Multi-document semantic search & analysis</p>
+      <p><strong>Tech:</strong> Detection & Tracking, Camera Motion, Speed & Distance</p>
+      <p>Ball Possession Attribution, Rich On-Frame Overlays</p>
     </td>
     <td width="5%" align="center">
       <h3>🧠 LLM Document Analysis</h3>
