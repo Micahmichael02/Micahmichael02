@@ -134,21 +134,21 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="15%" align="center">
       <h3>🎯 Object Detection & Tracking</h3>
       <img src="https://via.placeholder.com/500x300?text=Object+Detection+Demo+GIF" width="100%" alt="Object Detection" />
       <p><a href="https://github.com/Micahmichael02/object-detection-tracking"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> YOLOv8, PyTorch, OpenCV, FastAPI</p>
       <p>Real-time object detection with tracking</p>
     </td>
-    <td width="50%" align="center">
+    <td width="15%" align="center">
       <h3>🧠 LLM Document Analysis</h3>
       <img src="https://via.placeholder.com/500x300?text=LLM+App+Demo+GIF" width="100%" alt="LLM App" />
       <p><a href="https://github.com/Micahmichael02/llm-document-analysis"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> LangChain, LangGraph, Pinecone, FastAPI</p>
       <p>Multi-document semantic search & analysis</p>
     </td>
-    <td width="50%" align="center">
+    <td width="15%" align="center">
       <h3>🧠 LLM Document Analysis</h3>
       <img src="https://via.placeholder.com/500x300?text=LLM+App+Demo+GIF" width="100%" alt="LLM App" />
       <p><a href="https://github.com/Micahmichael02/llm-document-analysis"><strong>View Repository →</strong></a></p>
