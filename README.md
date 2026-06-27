@@ -159,10 +159,10 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>Ball Possession Attribution, Rich On-Frame Overlays</p>
     </td>
     <td width="5%" align="center">
-      <h3>🎯 Object-Detections-and-Tracking-Lab</h3>
+      <h3>🎯 Computer-vision: Object-Detections-and-Tracking-Lab</h3>
       <img src="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab/blob/main/OD_ROI_Areas/output.gif" width="100%" alt="Object Detection" />
       <p><a href="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> YOLO11, YOLO26, Face attendance, Gesture Recognition, PyTorch, OpenCV, FastAPI</p>
+      <p><strong>Tech:</strong> YOLO/Ultralytics, MediaPipe, Firebase Face attendance, Gesture Recognition, PyTorch, OpenCV, FastAPI, Tensorflow/Keras, MySQL and face-api.js</p>
       <p>Real-time object detection with tracking Lab</p>
     </td>
   </tr>
