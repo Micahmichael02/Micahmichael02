@@ -174,16 +174,14 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p><strong>Tech:</strong> Image Processing and Stitching, Road, Shelf, Video Processing and Analytics</p>
       <p>Real-time detection; built for Real-world analytics: counting, tracking, dashboards, and alerting</p>
     </td>
-    <tr>
-    <td width="100%" align="center" colspan="2">
+    <td width="5%" align="center" colspan="2">
       <h3>📸 Computer Vision Annotation Pipeline</h3>
       <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
       <p>Semi-automated ML-assisted annotation for 50K+ images</p>
     </td>
-    <tr>
-    <td width="100%" align="center" colspan="2">
+    <td width="5%" align="center" colspan="2">
       <h3>📸 Computer Vision Annotation Pipeline</h3>
       <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
