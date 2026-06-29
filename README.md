@@ -167,12 +167,12 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" colspan="2">
+    <td width="5%" align="center" colspan="2">
       <h3>📸 Computer Vision Analytics</h3>
       <img src="https://github.com/Micahmichael02/Computer-vision-Analytics-/blob/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="50%" alt="CV Analytics" />
       <p><a href="https://github.com/Micahmichael02/Computer-vision-Analytics-"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Image Processing and Stitching, Road, Shelf, Video Processing and Analytics</p>
-      <p>Real-time for Real-world analytics: counting dashboards</p>
+      <p>Real-time for Real-world analytics: counting and dashboards</p>
     </td>
     <td width="33%" align="center" colspan="2">
       <h3>📸 Computer Vision Annotation Pipeline</h3>
