@@ -200,6 +200,13 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>real-time webcam depth, batch image/video processing, metric depth prediction, and object-aware depth annotation.</p>
     </td>
     <td width="66%" align="center" colspan="2">
+      <h3>🏷️ Real-Time Object Measurement </h3>
+      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Annotation Pipeline Demo" />
+      <p><a href="https://github.com/Micahmichael02/Object-Measurement-Real-Time_App"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Python, Opencv and NumPy</p>
+      <p>A real-time computer vision application that measures the width and height of objects in centimeters using a standard A4 paper as a reference scale. Built with Python and OpenCV, it supports both live webcam feed and static image input.</p>
+    </td>
+    <td width="66%" align="center" colspan="2">
       <h3>🏷️ CV Annotation Pipeline</h3>
       <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Annotation Pipeline Demo" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
