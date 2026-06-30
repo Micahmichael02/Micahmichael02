@@ -184,11 +184,11 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>real-time landmark detection and a webcam-driven body-language classifier</p>
     </td>
     <td width="66%" align="center" colspan="2">
-      <h3>🏷️ CV Annotation Pipeline</h3>
-      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Annotation Pipeline Demo" />
-      <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
-      <p>Semi-automated ML-assisted annotation pipeline for 50K+ images with active learning feedback loops.</p>
+      <h3>🏷️ Real-time-AI-Powered-Gym-Tracker</h3>
+      <img src="https://github.com/Micahmichael02/Real-time-AI-Powered-Gym-Tracker/blob/main/gif/output_workout.gif" width="50%" alt="Real-Time-AI-Gym-Tracker-Application" />
+      <p><a href="https://github.com/Micahmichael02/Real-time-AI-Powered-Gym-Tracker"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Python, YOLO, MediaPipe, Opencv</p>
+      <p>eal-time fitness tracking system using AI pose estimation to count reps, assess form quality, and visualize workout analytics for multiple people simultaneously — all from a webcam or video file.</p>
     </td>
   </tr>
   <tr>
