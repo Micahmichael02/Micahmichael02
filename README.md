@@ -199,6 +199,13 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p><strong>Tech:</strong> YOLO, OpenCV, MySQL, Power BI, Image Stitching</p>
       <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
     </td>
+    <td width="66%" align="center" colspan="2">
+      <h3>🏷️ CV Annotation Pipeline</h3>
+      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Annotation Pipeline Demo" />
+      <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
+      <p>Semi-automated ML-assisted annotation pipeline for 50K+ images with active learning feedback loops.</p>
+    </td>
 </table>
 
 
