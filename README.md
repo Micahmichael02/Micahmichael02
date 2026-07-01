@@ -209,11 +209,11 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
   </tr>
   <tr>
      <td width="66%" align="center" colspan="2">
-      <h3>🔧 Featured Project Name</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="50%" alt="Project Demo" />
-      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
-      <p>One-sentence description of what the project does and its key output.</p>
+      <h3>🔧 Semantic and Instance Segmentation Projects Lab</h3>
+      <img src="https://github.com/Micahmichael02/Semantic-Instance-Segmentation-Projects-Lab/blob/main/Orange-Production-project-with-YOLO26/videos/results/trackzone_advanced.gif" width="50%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/Semantic-Instance-Segmentation-Projects-Lab/tree/main"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Python, YOLO, Opencv, numpy, Pillow and TensorFlow Mask R-CNN</p>
+      <p> covering instance segmentation, semantic segmentation, and real-time object tracking with counting</p>
     </td>
     <td width="33%" align="center">
       <h3>🔧 Document-Scanner</h3>
