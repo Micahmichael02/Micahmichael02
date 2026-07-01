@@ -223,6 +223,15 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>a real-time document scanner entirely in Python using OpenCV..</p>
     </td>
   </tr>
+  <tr>
+    <td width="100%" align="center" colspan="3">
+      <h3>🔧 Object-Detection-in-Self-Driving-Vehicles-Using-CARLA-Simulator-and-YOLOv8</h3>
+      <img src="https://github.com/Micahmichael02/Object-Detection-in-Self-Driving-Vehicles-Using-CARLA-Simulator-and-YOLOv8/blob/main/Results/gifs/multi_cam_2.gif" width="100%" alt="Computer vision Project" />
+      <p><a href="https://github.com/Micahmichael02/Object-Detection-in-Self-Driving-Vehicles-Using-CARLA-Simulator-and-YOLOv8#"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong>Python, CARLA simulator, Opencv, pygame, YOLO, Pytorch, Numpy, Pillow</p>
+      <p>bject Detection in Self-Driving Vehicle Using CARLA Simulator and YOLOv8</p>
+    </td>
+  </tr>
 </table>
 
 <!--
