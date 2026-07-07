@@ -20,7 +20,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Expert%3A+Data+Engineer+Computer+Vision+(AI+Specialization)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision,+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Studied%3A+Mechanical+Engineering" alt="Typing SVG" />
 </a>
 
 </div>
