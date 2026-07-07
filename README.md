@@ -489,7 +489,7 @@ Creating scalable web applications, microservices, and cloud-native solutions.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=120&section=footer" width="100%"/>
+
 
 </div>
 
@@ -521,4 +521,6 @@ Creating scalable web applications, microservices, and cloud-native solutions.
   </p>
   
   <p>Made with ❤️ by <a href="https://github.com/Micahmichael02">Micahmichael02</a> | Last Updated: 2026</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=120&section=footer" width="100%"/>
 </div>
