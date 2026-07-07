@@ -57,15 +57,15 @@
 - ⚡ **Fun fact:** I love building things that scale 🚀
 
 <p align="center">
-  <a href="https://github.com/Micahmichael02" target="blank">
+  <!-- <a href="https://github.com/Micahmichael02" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Micahmichael02" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/michael-micah003/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:makoflash05@gmail.com" target="blank">
+  <!-- <a href="mailto:makoflash05@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="email" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -134,36 +134,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Micahmichael02&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=27" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Micahmichael02&show_icons=true&theme=github_dark&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Micahmichael02&theme=github-dark" alt="Streak Stats" />
-</div>
-
----
-
-## 📅 Contribution Calendar - Full Year
-
-<div align="center">
-  <img width="98%" alt="Micahmichael02's GitHub Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=Micahmichael02&theme=github-dark&bg_color=0d1117&line=0077b6&point=0077b6&area=true&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="20%" alt=" Active 24/7 " src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/1.gif" />
-
-  <img width="30%" alt=" AI User 😎 " src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/2.gif" />
-</div>
-
-<br />
-
----
 
 ## 🤖 AI & Computer Vision Engineering
 
@@ -409,6 +379,35 @@ Creating scalable web applications, microservices, and cloud-native solutions.
 
 ---
 
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🏫 Education**
+- BS Mechaincal Engineering — AI/ Automation / Computer vision / Specialization
+  Nigeria Maritime University · 2019 – 2024
+
+</td>
+<td valign="top" width="50%">
+
+<!-- **📜 Certifications**
+- Azure AI Fundamentals — *Microsoft* (2026)
+- AI/ML Engineer Professional Cert. — *NAVTTC & Corvit* (2026)
+- C++ Essentials 1 — *Cisco Networking Academy* (2024)
+- Microsoft Office Specialist — *Microsoft* (2022)
+<!-- - Spoken English — *Govt. of Punjab* (2023) -->
+<!-- - Graphic Designing — *Masia Institute* (2022)
+- 17th Intl. Bebras Informatics Contest (2022) --> -->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
 ## 📈 Most Used Languages
 
 <div align="center">
@@ -456,6 +455,36 @@ Creating scalable web applications, microservices, and cloud-native solutions.
   </table>
 </div>
 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Micahmichael02&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=27" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Micahmichael02&show_icons=true&theme=github_dark&layout=compact&langs_count=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Micahmichael02&theme=github-dark" alt="Streak Stats" />
+</div>
+
+---
+
+## 📅 Contribution Calendar - Full Year
+
+<div align="center">
+  <img width="98%" alt="Micahmichael02's GitHub Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=Micahmichael02&theme=github-dark&bg_color=0d1117&line=0077b6&point=0077b6&area=true&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="20%" alt=" Active 24/7 " src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/1.gif" />
+
+  <img width="30%" alt=" AI User 😎 " src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/2.gif" />
+</div>
+
+<br />
+
 ---
 
 ## 💬 Let's Connect!
@@ -472,6 +501,11 @@ Creating scalable web applications, microservices, and cloud-native solutions.
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=120&section=footer" width="100%"/>
+
 </div>
 
 ---
