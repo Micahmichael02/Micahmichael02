@@ -1,4 +1,33 @@
-# Hi 👋, I'm Michael Chukwuemeka Micah 
+<div align="center"> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=Michael%20Chukwuemeka%20Micah&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=🚀%20AI%20%2F%20ML%20Engineer%20%7C%20Gen%20AI%20Builder%20%7C%20Data%20Engineer%20%7C%20Fu&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<!-- <a href="https://effervescent-begonia-9553d7.netlify.app"> 
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Live%20Site-6C1CD1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a> -->
+<a href="https://www.linkedin.com/in/michael-micah003/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Micahmichael02">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:makoflash05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Specializations%3A+Data+Engineer+Computer+Vision+(AI+Specialization)" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- # Hi 👋, I'm Michael Chukwuemeka Micah  
 
 ### 🚀 AI Engineer | Data Engineer | Full-Stack Developer
 **Building intelligent systems, data pipelines, and scalable applications**
@@ -13,7 +42,7 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Micahmichael02&label=Profile%20Views&color=0077b6&style=flat-square">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Micahmichael02?color=0077b6&style=flat-square">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Micahmichael02?color=0077b6&style=flat-square">
-</p>
+</p> -->
 
 ---
 
