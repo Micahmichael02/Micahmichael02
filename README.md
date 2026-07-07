@@ -4,7 +4,7 @@
 
 <br/>
 
-<!-- <a href="https://effervescent-begonia-9553d7.netlify.app"> 
+<!-- <a href="https://effervescent-begonia-9553d7.netlify.app"> Input your link here
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Live%20Site-6C1CD1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a> -->
 <a href="https://www.linkedin.com/in/michael-micah003/">
@@ -20,29 +20,12 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision,+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Studied%3A+Mechanical+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Studied%3A+Mechanical+Engineering" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
-
-<!-- # Hi 👋, I'm Michael Chukwuemeka Micah  
-
-### 🚀 AI Engineer | Data Engineer | Full-Stack Developer
-**Building intelligent systems, data pipelines, and scalable applications**
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Micahmichael02&theme=github_dark&no-frame=true&row=1" alt="Trophy" />
-  </a>
-</div>
-
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Micahmichael02&label=Profile%20Views&color=0077b6&style=flat-square">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Micahmichael02?color=0077b6&style=flat-square">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Micahmichael02?color=0077b6&style=flat-square">
-</p> -->
 
 ---
 
