@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=Michael%20Chukwuemeka%20Micah&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=🚀%20AI%20%2F%20ML%20Engineer%20%7C%20Gen%20AI%20Builder%20%7C%20Data%20Engineer%20%7C%20Fu&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=Michael%20Chukwuemeka%20Micah&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=🚀%20AI%20%2F%20ML%20Engineer%20%7C%20Gen%20AI%20Builder%20%7C%20Data%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Specializations%3A+Data+Engineer+Computer+Vision+(AI+Specialization)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+autonomous+AI+agents+that+fix+their+own;%E2%9A%A1+RAG+%2B+LLMs+%2B+Computer+Vision+%2B+Data+Engineering;%F0%9F%8E%99%EF%B8%8F+Turning+meetings+%26+Data+into+searchable+insight;%F0%9F%8E%93+Expert%3A+Data+Engineer+Computer+Vision+(AI+Specialization)" alt="Typing SVG" />
 </a>
 
 </div>
