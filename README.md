@@ -341,73 +341,73 @@ Power BI & Excel dashboards from my [Data Analytics Portfolio](https://github.co
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Data%20Jobs%20Worldwide_Dashboard.png" width="200" alt="Data Jobs Worldwide dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Data%20Jobs%20Worldwide_Dashboard.png" width="260" alt="Data Jobs Worldwide dashboard"></a><br>
 <sub><b>Data Jobs Worldwide</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Customer_Churn%20Analysis-Dashboard.png" width="200" alt="Customer Churn Analysis dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Customer_Churn%20Analysis-Dashboard.png" width="260" alt="Customer Churn Analysis dashboard"></a><br>
 <sub><b>Customer Churn Analysis</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Sales%20Churn%20Analysis_DashBoard.png" width="200" alt="Sales Churn Analysis dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Sales%20Churn%20Analysis_DashBoard.png" width="260" alt="Sales Churn Analysis dashboard"></a><br>
 <sub><b>Sales Churn Analysis</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Grocery%20Sales%20Analysis_DashBoard.png" width="200" alt="Grocery Sales Analysis dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Grocery%20Sales%20Analysis_DashBoard.png" width="260" alt="Grocery Sales Analysis dashboard"></a><br>
 <sub><b>Grocery Sales Analysis</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Online_Retail-DashBoard.png" width="200" alt="Online Retail dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Online_Retail-DashBoard.png" width="260" alt="Online Retail dashboard"></a><br>
 <sub><b>Online Retail</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/bicycle_share-dashboard.png" width="200" alt="Bicycle Share dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/bicycle_share-dashboard.png" width="260" alt="Bicycle Share dashboard"></a><br>
 <sub><b>Bicycle Share</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Apocolyse_Food-Dashboard.png" width="200" alt="Apocalypse Food Prep dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Apocolyse_Food-Dashboard.png" width="260" alt="Apocalypse Food Prep dashboard"></a><br>
 <sub><b>Apocalypse Food Prep</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/AI%2C%20ML%2C%20Data%20science%20salary%20analysis%202020-2025"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/AI%2C%20ML%2C%20Data%20science%20salary%20analysis%202020-2025/Img.png" width="200" alt="AI, ML, Data Science Salary Analysis dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/AI%2C%20ML%2C%20Data%20science%20salary%20analysis%202020-2025"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/AI%2C%20ML%2C%20Data%20science%20salary%20analysis%202020-2025/Img.png" width="260" alt="AI, ML, Data Science Salary Analysis dashboard"></a><br>
 <sub><b>AI/ML/Data Science Salary Analysis</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Data%20Professional%20Salary%20Survey"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Data%20Professional%20Salary%20Survey/Img.png" width="200" alt="Data Professional Salary Survey dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Data%20Professional%20Salary%20Survey"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Data%20Professional%20Salary%20Survey/Img.png" width="260" alt="Data Professional Salary Survey dashboard"></a><br>
 <sub><b>Data Professional Salary Survey</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/World%20population%20and%20Unemployment(1960-2023)"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/World%20population%20and%20Unemployment(1960-2023)/world%20population%20and%20Unemployment%20analysis%201960-2023_Dashboard.png" width="200" alt="World Population and Unemployment 1960-2023 dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/World%20population%20and%20Unemployment(1960-2023)"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/World%20population%20and%20Unemployment(1960-2023)/world%20population%20and%20Unemployment%20analysis%201960-2023_Dashboard.png" width="260" alt="World Population and Unemployment 1960-2023 dashboard"></a><br>
 <sub><b>World Population & Unemployment</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/world%20largets%20cities%20by%20population%202024"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/world%20largets%20cities%20by%20population%202024/World%20Largest%20Cities%20By%20Population%202024_DashBoard.png" width="200" alt="World Largest Cities by Population 2024 dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/world%20largets%20cities%20by%20population%202024"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/world%20largets%20cities%20by%20population%202024/World%20Largest%20Cities%20By%20Population%202024_DashBoard.png" width="260" alt="World Largest Cities by Population 2024 dashboard"></a><br>
 <sub><b>World's Largest Cities 2024</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/world%20population%20with%20least%20basic%20eduction"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/world%20population%20with%20least%20basic%20eduction/World-population-with-at-least-basic-education_DashBoard.png" width="200" alt="World Population with At Least Basic Education dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/projects%20to-do/world%20population%20with%20least%20basic%20eduction"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/projects%20to-do/world%20population%20with%20least%20basic%20eduction/World-population-with-at-least-basic-education_DashBoard.png" width="260" alt="World Population with At Least Basic Education dashboard"></a><br>
 <sub><b>World Population Basic Education</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Energy_household"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Energy_household/Img1%20(1).png" width="200" alt="Household Energy Consumption dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Energy_household"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Energy_household/Img1%20(1).png" width="260" alt="Household Energy Consumption dashboard"></a><br>
 <sub><b>Household Energy Consumption</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/personal%20Budget%20Tracker"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/personal%20Budget%20Tracker/Img.png" width="200" alt="Personal Budget Tracker dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/personal%20Budget%20Tracker"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/personal%20Budget%20Tracker/Img.png" width="260" alt="Personal Budget Tracker dashboard"></a><br>
 <sub><b>Personal Budget Tracker</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/SQL"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/SQL/Object%20detection%20in%20real%20time%20analysis%20dashboard.png" width="200" alt="Real-time Object Detection Analytics dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/SQL"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/SQL/Object%20detection%20in%20real%20time%20analysis%20dashboard.png" width="260" alt="Real-time Object Detection Analytics dashboard"></a><br>
 <sub><b>Object Detection Analytics</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Visualization_DashBoard.png" width="200" alt="Visualizations practice dashboard"></a><br>
+<a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/Power%20bi_projects"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/Power%20bi_projects/Visualization_DashBoard.png" width="260" alt="Visualizations practice dashboard"></a><br>
 <sub><b>Visualizations Practice</b></sub>
 </td>
 </tr>
@@ -423,7 +423,7 @@ Power BI & Excel dashboards from my [Data Analytics Portfolio](https://github.co
   Paste inside the gallery <table> above, as a new <td> (4 per <tr> row):
 
   <td align="center" width="25%">
-  <a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/YOUR-FOLDER"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/YOUR-FOLDER/your-image.png" width="200" alt="Your Dashboard description"></a><br>
+  <a href="https://github.com/Micahmichael02/Data-Analytics-Projects/tree/main/YOUR-FOLDER"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Analytics-Projects/main/YOUR-FOLDER/your-image.png" width="260" alt="Your Dashboard description"></a><br>
   <sub><b>Your Dashboard Name</b></sub>
   </td>
 
