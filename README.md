@@ -334,6 +334,45 @@ Designing and building robust data infrastructure, pipelines, and analytics syst
   </tr>
 </table>
 
+### 📸 Data Engineering Projects — Portfolio Dashboard Gallery
+
+Dashboards and pipeline results from my [Data Engineering & ETL/ELT Pipelines](https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines) repo — SQL/Power BI dashboards built on top of hand-written ETL pipelines.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/tree/main/bike_share"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/main/bike_share/DashBoard.png" width="260" alt="Bike Share Revenue & Profit dashboard"></a><br>
+<sub><b>Bike Share Revenue & Profit</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/tree/main/Ecommerce-Performance-Dashboard"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/main/Ecommerce-Performance-Dashboard/Screenshots.png" width="260" alt="E-commerce Performance dashboard"></a><br>
+<sub><b>E-commerce Performance</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/tree/main/Predictive%20Patient%20Readmission%20system"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/main/Predictive%20Patient%20Readmission%20system/images/Dashboard.png" width="260" alt="Patient Readmission Insights dashboard"></a><br>
+<sub><b>Patient Readmission Insights</b></sub>
+</td>
+</tr>
+</table>
+
+*Click any thumbnail to browse that project's folder. Full portfolio: [Data-Engineering-ETL-ELT-Pipelines →](https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines)*
+
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  TEMPLATE — add a new dashboard thumbnail below this block   ║
+  ╚══════════════════════════════════════════════════════════════╝
+
+  Paste inside the gallery <table> above, as a new <td> (3 per <tr> row,
+  or drop width to 25% and use 4 per row once there are more thumbnails):
+
+  <td align="center" width="33%">
+  <a href="https://github.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/tree/main/YOUR-FOLDER"><img src="https://raw.githubusercontent.com/Micahmichael02/Data-Engineering-ETL-ELT-Pipelines/main/YOUR-FOLDER/your-image.png" width="260" alt="Your Dashboard description"></a><br>
+  <sub><b>Your Dashboard Name</b></sub>
+  </td>
+
+  Or start a new <tr>...</tr> row once the current row is full.
+-->
+
 ### 📸 Data Analytics Portfolio — Dashboard Gallery
 
 Power BI & Excel dashboards from my [Data Analytics Portfolio](https://github.com/Micahmichael02/Data-Analytics-Projects) — salary/market research, demographic studies, financial tracking, and BI practice projects.
